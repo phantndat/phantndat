@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UCaRBa6rphS4a5mHDHTk6U-Q)
+[![phantndat's GitHub stats](https://github-readme-stats.vercel.app/api?username=phantndat)](https://github.com/phantndat/github-readme-stats)
 <!--
 **phantndat/phantndat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
